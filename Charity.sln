@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Charity-Api", "Charity-Api\Charity-Api.csproj", "{35C1584E-A63C-4260-9469-53975BB1D17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityDomain", "CharityDomain\CharityDomain.csproj", "{62B8A802-8279-4410-8D45-FA774F937EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C1584E-A63C-4260-9469-53975BB1D17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C1584E-A63C-4260-9469-53975BB1D17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C1584E-A63C-4260-9469-53975BB1D17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C1584E-A63C-4260-9469-53975BB1D17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B8A802-8279-4410-8D45-FA774F937EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B8A802-8279-4410-8D45-FA774F937EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B8A802-8279-4410-8D45-FA774F937EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B8A802-8279-4410-8D45-FA774F937EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A897B35C-3688-417A-BDBF-73D105D7E1D8}
+	EndGlobalSection
+EndGlobal
