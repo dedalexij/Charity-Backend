@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CharityDomain\CharityDomain.csproj" />
-    <ProjectReference Include="..\Charity\Charity.csproj" />
   </ItemGroup>
 
   <ItemGroup>
